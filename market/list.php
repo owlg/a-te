@@ -14,3 +14,9 @@ $USDToSurfPointsRate = 1000/1.4
 
 // 1.4 is the estimated rate from USD to SGD
 
+while ( i < 5 ) {
+  SELECT FROM `users` 
+};
+
+
+?>
