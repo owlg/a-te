@@ -11,4 +11,7 @@ $finalAmtOfTransfer = $AmtOfTransfer - $transactionfee
 
 
 
-// Store transaction information in a separate table in database named 'user_points_transactions'
+// Store transaction information in a separate table in database named 'user_points_transactions' for future references
+
+
+?>
