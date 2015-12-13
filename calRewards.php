@@ -6,4 +6,7 @@ $userrewardedPoints = $surfPoints / 100 * 80
 //The admin takes 20% of the revenue, to be distributed elsewhere.
 
 $adminrewardedPoints = $surfPoints / 100 * 20
+
+
+//Reward the users by adding the changes to the MySQL database, using MODIFY and using PHP to add and change
 ?>
